@@ -38,7 +38,7 @@
                     </svg>
                 </div>
 
-                <h1>Hello Son</h1>
+                <h1>Version 2</h1>
 
                 <div class="mt-16">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
